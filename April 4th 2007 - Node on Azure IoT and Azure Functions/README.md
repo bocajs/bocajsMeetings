@@ -11,12 +11,12 @@
 - Project Repo
 	https://github.com/joescars/CostaIoTSensorProject
 
--Azure IoT Hub	
+- Azure IoT Hub	
 	https://azure.microsoft.com/en-us/services/iot-hub/
 
--Azure Functions
+- Azure Functions
 	https://azure.microsoft.com/en-us/services/functions/
 
--Twilio
+- Twilio
 	https://www.twilio.com/
 

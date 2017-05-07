@@ -10,7 +10,10 @@
 	https://github.com/jondot/awesome-react-native
 
 - Getting started with Redux:
-	https://egghead.io/courses/getting-started-with-redux
+	https://egghead.io/courses/getting-started-with-redux5
+
+- Getting started is a couple of seconds with React Native using EXPO 
+	https://www.youtube.com/watch?v=9baaVjGdBqs
 
 - John Radosta's Github
 	https://github.com/JohnAntonusMaximus

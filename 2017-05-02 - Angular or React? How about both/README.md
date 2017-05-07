@@ -1,7 +1,5 @@
 # John Radosta (From Shark Tank) Presents: Angular or React? How about both!
 
-[slides](https://www.slideshare.net/JoeRaio/costa-farms-case-study-azure-iot-hub-azure-functions)
-
 #Resource Links
 
 - React Github Repos
